@@ -17,7 +17,7 @@ background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
     </form> -->
     <p v-if="message" class="message">{{ message }}</p>
     <footer>
-      <p style="color: #2c3e50;">&copy; 2024 Your Name. All rights reserved.</p>
+      <p style="color: #2c3e50;">&copy; 2024 Cameron Tamboer. All rights reserved.</p>
     </footer>
   </div>
 </template>
